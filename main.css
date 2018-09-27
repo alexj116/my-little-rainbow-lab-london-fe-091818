@@ -1,6 +1,7 @@
 #red {border-top-color: #f00;}
 #orange {border-top-color: #ffa500;}
-#yellow {border-top-color: 
+#yellow {border-top-color: #ff0;}
+#green {border-top-color: 
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */

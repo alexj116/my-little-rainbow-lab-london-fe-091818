@@ -2,6 +2,7 @@
 #orange {border-top-color: #ffa500;}
 #yellow {border-top-color: #ff0;}
 #green {border-top-color: #00bc3f;}
+ {border-top-color: #00bc3f;}
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
